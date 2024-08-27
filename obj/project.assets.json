@@ -1701,11 +1701,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vegaz\\source\\repos\\ExamenProgra\\ExamenProgra.csproj",
+      "projectUniqueName": "C:\\Users\\vegaz\\Documents\\GitHub\\EXAMEN\\ExamenProgra.csproj",
       "projectName": "ExamenProgra",
-      "projectPath": "C:\\Users\\vegaz\\source\\repos\\ExamenProgra\\ExamenProgra.csproj",
+      "projectPath": "C:\\Users\\vegaz\\Documents\\GitHub\\EXAMEN\\ExamenProgra.csproj",
       "packagesPath": "C:\\Users\\vegaz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vegaz\\source\\repos\\ExamenProgra\\obj\\",
+      "outputPath": "C:\\Users\\vegaz\\Documents\\GitHub\\EXAMEN\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vegaz\\AppData\\Roaming\\NuGet\\NuGet.Config",
